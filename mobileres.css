@@ -121,10 +121,18 @@ nav a{
   }
   .footer-right {
    padding-top: 5%;
+   padding-left: 0px
   }
   .logos-list > li {
     justify-content: center;
     padding: 0px 8px;
+  }
+  .list > li + li {
+    padding: 0px 26.5px;
+  } 
+  .logos-list > li {
+    justify-content: start;
+    padding: 0px 0px;
   }
 
   
