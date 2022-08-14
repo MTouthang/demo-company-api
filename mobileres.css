@@ -24,7 +24,7 @@ nav a{
     }
   .header-image {
     width: 250px;
-    padding-top: 10%;
+    padding-top: 8%;
   }
   
   /*** cards ***/
@@ -108,7 +108,7 @@ nav a{
   }
   .download-email > form > input {
   
-    width: 63%;
+    width: 61.5%;
   
     border: none;
     background-color: #E9EDFF;
