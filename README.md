@@ -16,5 +16,6 @@ A simple web design demo of company with API selling website.
 ### ScreenShot
 ![Project screenshot](./thumbnail.png)
 
+**Responsive and Mobile friendly**
 
 *--------------------------------------------- Feel free to fork and play around ----------------------------------------*
