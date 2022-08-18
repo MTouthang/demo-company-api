@@ -10,7 +10,6 @@
 
 /**** heading section ****/
 header{
-
   background-color: #3400FF;
   padding: 0 4%;
 }
@@ -20,6 +19,9 @@ nav {
   justify-content: end;
   color: #fff;
   
+}
+.sub-menu {
+  padding-top: 5%;
 }
 .nav-item-active {
   background-color: aliceblue;
